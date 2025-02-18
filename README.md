@@ -47,7 +47,7 @@ Only Contents access is needed here
 
 Copy the created access token
 ![image](https://www.uplooder.net/img/image/14/14771a720fbec81a7b4be8f5caca96b6/Screenshot-2024-01-04-121414.png)
-=======
+=========
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
